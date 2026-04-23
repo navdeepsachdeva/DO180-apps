@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is LAND APP V4";
+print "Hello, World! php version is Aristo App v2";
 ?>
