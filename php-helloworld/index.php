@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is PIMC V6";
+print "Hello, World! php version is PIMC V7";
 ?>
