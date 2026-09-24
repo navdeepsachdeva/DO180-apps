@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is Vantor v1";
+print "Hello, World! php version is Vantor v2";
 ?>
